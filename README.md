@@ -28,6 +28,49 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para aprimorar m
 
 </div>
 
+## 🤖 Linguagens e Tecnologias
+
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle SQL"/>
+      <br>Oracle SQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/>
+      <br>React.js
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 📚 Atualmente estudando
@@ -61,8 +104,8 @@ Tenho interesse em desenvolvimento de software, qualidade de aplicações, banco
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorpgms&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorpgms&show_icons=true&theme=transparent&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpgms&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpgms&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
