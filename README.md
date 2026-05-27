@@ -110,3 +110,17 @@ Ao longo da minha transição de carreira para a área de Tecnologia, venho real
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorpgms&theme=github_dark&utcOffset=-3" />
 
 </div>
+
+
+## 📊 Estatísticas
+
+<div align="left">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpgms&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorpgms&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorpgms&theme=github_dark" />
+
+</div>
