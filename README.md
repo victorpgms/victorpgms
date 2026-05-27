@@ -91,6 +91,8 @@ Ao longo da minha transição de carreira para a área de Tecnologia, venho real
 
 📁 [Acessar certificados](https://1drv.ms/f/c/a6367a07b7ba8450/IgB0T1L3O9zOQ6T574OvprmUAUvAGdzl5Eh6rMrasMigz_U?e=ogPO2u)
 
+
+<!-- 
 ---
 
 ## 📊 Estatísticas
@@ -105,5 +107,6 @@ Ao longo da minha transição de carreira para a área de Tecnologia, venho real
 
 
 </div>
+-->
 
 
