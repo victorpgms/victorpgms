@@ -90,3 +90,23 @@ Tenho interesse em desenvolvimento de software, qualidade de aplicações, banco
 Ao longo da minha transição de carreira para a área de Tecnologia, venho realizando cursos, formações e atividades complementares para fortalecer minha base técnica e profissional.
 
 📁 [Acessar certificados](https://1drv.ms/f/c/a6367a07b7ba8450/IgB0T1L3O9zOQ6T574OvprmUAUvAGdzl5Eh6rMrasMigz_U?e=ogPO2u)
+
+---
+
+## 📊 Estatísticas
+
+<div align="left">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpgms&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorpgms&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorpgms&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorpgms&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorpgms&theme=github_dark&utcOffset=-3" />
+
+</div>
