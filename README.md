@@ -69,14 +69,6 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para aprimorar m
 
 ---
 
-## 📈 Objetivo
-
-Busco minha primeira oportunidade na área de Tecnologia, seja em estágio ou posição júnior, onde eu possa aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir com soluções bem estruturadas.
-
-Tenho interesse em desenvolvimento de software, qualidade de aplicações, banco de dados e análise de dados.
-
----
-
 ## 📫 Contato
 
 📧 E-mail: victorr.pgms@gmail.com  
