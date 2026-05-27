@@ -85,12 +85,8 @@ Tenho interesse em desenvolvimento de software, qualidade de aplicações, banco
 
 ---
 
-## 📊 Estatísticas
+## 📜 Certificados
 
-<div align="left">
+Ao longo da minha transição de carreira para a área de Tecnologia, venho realizando cursos, formações e atividades complementares para fortalecer minha base técnica e profissional.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorpgms&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpgms&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
+📁 [Acessar certificados](https://1drv.ms/f/c/a6367a07b7ba8450/IgB0T1L3O9zOQ6T574OvprmUAUvAGdzl5Eh6rMrasMigz_U?e=ogPO2u)
