@@ -73,13 +73,12 @@ Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para aprimorar m
 
 📧 E-mail: victorr.pgms@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/victor-pgms  
-🐙 GitHub: https://github.com/victorpgms  
 
 ---
 
 ## 📜 Certificados
 
-Ao longo da minha transição de carreira para a área de Tecnologia, venho realizando cursos, formações e atividades complementares para fortalecer minha base técnica e profissional.
+Venho realizando cursos, formações e atividades complementares para fortalecer minha base técnica e profissional.
 
 📁 [Acessar certificados](https://1drv.ms/f/c/a6367a07b7ba8450/IgB0T1L3O9zOQ6T574OvprmUAUvAGdzl5Eh6rMrasMigz_U?e=ogPO2u)
 
